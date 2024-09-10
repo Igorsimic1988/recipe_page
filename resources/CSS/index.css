@@ -1,0 +1,16 @@
+* *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    background-color: #F3E5D7;
+}
+
+main {
+    max-width: 46rem;
+}
+
+.main_img {
+    max-height: 18.75rem;
+}
